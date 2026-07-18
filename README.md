@@ -12,7 +12,7 @@ Main entry point for PeakForge.
 """
 
 from core.architecture import ArchitectureCore
-from core.discipline import Gro DisciplineEngine
+from core.discipline import DisciplineEngine
 from core.growth import GrowthTracker
 
 
