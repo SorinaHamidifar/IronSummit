@@ -1,5 +1,5 @@
 # ==========================================
-# Project: PeakForge disciplined code
+# Project: PeakForge disciplined 
 # Description:
 # A peak destination for strong architecture, disciplined coding,
 # and steady growth as a developer.
